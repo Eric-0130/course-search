@@ -1,0 +1,41 @@
+code,title,department,units,description
+CSE 8A,Introduction to Programming I,CSE,4,Programming basics with practice problems
+CSE 8B,Introduction to Programming II,CSE,4,Further programming and object-oriented concepts
+CSE 11,Introduction to Computer Science and Object-Oriented Programming,CSE,4,Java programming and object-oriented design
+CSE 12,Basic Data Structures and Object-Oriented Design,CSE,4,Lists trees recursion and fundamental data structures
+CSE 15L,Software Tools and Techniques Laboratory,CSE,2,Command-line tools version control and software workflows
+CSE 20,Discrete Mathematics,CSE,4,Logic sets induction and discrete structures
+CSE 21,Mathematics for Algorithms and Systems,CSE,4,Combinatorics probability and algorithm foundations
+CSE 30,Computer Organization and Systems Programming,CSE,4,Memory architecture and lower-level programming
+CSE 100,Advanced Data Structures,CSE,4,Efficient trees hash tables graphs and data structures
+CSE 101,Design and Analysis of Algorithms,CSE,4,Algorithm design correctness and complexity analysis
+CSE 105,Theory of Computability,CSE,4,Formal languages and computational limits
+CSE 110,Software Engineering,CSE,4,Team software development and engineering practices
+CSE 120,Principles of Computer Operating Systems,CSE,4,Processes threads scheduling and memory management
+CSE 130,Programming Languages Principles and Paradigms,CSE,4,Language design and programming models
+CSE 140,Components and Design Techniques for Digital Systems,CSE,4,Digital systems and hardware design principles
+CSE 150A,Introduction to Artificial Intelligence,CSE,4,Foundations of probabilistic reasoning
+CSE 152A,Introduction to Computer Vision,CSE,4,Image processing and visual recognition
+CSE 158,Recommender Systems and Web Mining,CSE,4,Recommendation algorithms and large-scale data
+CSE 167,Computer Graphics,CSE,4,Rendering geometry and visual computing
+CSE 170,Interaction Design,CSE,4,Human-centered design and interactive systems
+CSE 180,Database System Principles,CSE,4,Relational models SQL and database systems
+CSE 190,Special Topics in Computer Science,CSE,4,Selected topics in modern computing
+MATH 18,Linear Algebra,MATH,4,Linear systems matrices and vector spaces
+MATH 20A,Calculus for Science and Engineering I,MATH,4,Limits derivatives and applications
+MATH 20B,Calculus for Science and Engineering II,MATH,4,Integration and elementary differential equations
+MATH 20C,Calculus for Science and Engineering III,MATH,4,Multivariable calculus and vector analysis
+MATH 109,Mathematical Reasoning,MATH,4,Proof techniques and mathematical foundations
+MATH 154,Discrete Mathematics and Graph Theory,MATH,4,Graph theory combinatorics and discrete mathematics
+MATH 170A,Introduction to Numerical Analysis I,MATH,4,Numerical methods and error analysis
+DSC 10,Principles of Data Science,DSC,4,Data exploration and basic data science methods
+DSC 20,Programming and Data Structures for Data Science,DSC,4,Programming data abstractions and data structures
+DSC 30,Data Structures and Algorithms for Data Science,DSC,4,Algorithms and efficient data processing
+DSC 40A,Theoretical Foundations of Data Science I,DSC,4,Mathematical foundations of data science
+DSC 80,The Practice and Application of Data Science,DSC,4,Data pipelines and practical data analysis
+DSC 100,Introduction to Data Management,DSC,4,Data organization relational data and queries
+ECE 15,Engineering Computation,ECE,4,Computational methods in engineering
+ECE 35,Introduction to Analog Design,ECE,4,Circuit concepts and analog electronics
+ECE 45,Circuits and Systems,ECE,4,Signals linear systems and circuit analysis
+COGS 108,Data Science in Practice,COGS,4,Practical data science workflows and communication
+COGS 120,Interaction Design,COGS,4,Designing and evaluating interactive experiences
