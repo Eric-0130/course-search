@@ -1,0 +1,11 @@
+# Java compiler output
+.build/
+*.class
+*.jar
+# IDE / operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Temp / debug
+*.log
